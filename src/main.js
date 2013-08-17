@@ -3,6 +3,7 @@
 	// messanger just handles all the events
 	var Messenger = function ( ) { };
 	Messenger = Marrow( Messenger );
+	
 	var messenger = new Messenger( );
 
 	var Debug = function ( config, options ) {
