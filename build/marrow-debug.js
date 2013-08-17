@@ -1,3 +1,12 @@
+/*
+ * Marrow-Debug.js - 0.0.2 
+ * Description : Marrow Debug is a small utitlity that allows you to debug code and not have to worry about scattering console logs everywhere 
+ * Project Url : https://github.com/jacoblwe20/marrow-debug 
+ * Author : Jacob Lowe <http://jacoblowe.me> 
+ * License : MIT 
+ * Depedencies: Marrow.js 
+ */
+
 ( function ( Marrow, exports ) {
 
 	// messanger just handles all the events
