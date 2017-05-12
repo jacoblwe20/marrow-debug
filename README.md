@@ -1,5 +1,7 @@
 ## Marrow Debug
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jcblw/marrow-debug.svg)](https://greenkeeper.io/)
+
 smart debugging for web apps
 
 ### Use
